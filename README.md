@@ -2,38 +2,31 @@
 
 ## Description
 
-Add a short description of your app.
-
-## Screenshots
-
-Add some spiffy screenshots of your app here.
+Closest is an app designed to find th closest of whatever you want. 
 
 ## Background
 
-Why did you want to make this app? What was your development process
-like?
+When we are looking for a place, we often don't really care where we end up, as long as it is the closest. We built this app in order to find the closest of whatever we want, profvided it's on yelp at the moment. 
 
 ## Features
 
-Bullet point some of the key features of your app here.
+Provides directions to the closest place of your selection. 
 
 ## Usage
 
-How do users use your app?
+This is a mobile first web app designed to be used for people who are out and about and just looking for some place. 
 
 ## Development/Contribution
 
-Explain how people can contribute to your app. How should they write tests?
-Any things in particular you'd like to see in pull requests?
+To contribute to this app please fork and submit a pull request. If you find a bug then submit a bug report. 
 
 ## Future
 
-What features are you currently working on? Only mention things that you
-actually are implementing. No pie-in-the-sky-never-gonna-happen stuff.
+The feature we are currently working on is skipping places on the app, currently only one search result comes up, we would like to let users select mutliple. 
 
 ## Author
 
-Link to your blog, twitter, etc!
+This app was made by me (@benjagross) and Joe Roberts (@JoeJohnRobert)
 
 ## License
 
